@@ -8,6 +8,9 @@
 
 </script>
 
-<style>
+<style lang="scss" scoped>
+div {
+    background-color: red;
+}
 
 </style>
